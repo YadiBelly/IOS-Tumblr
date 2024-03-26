@@ -1,6 +1,6 @@
 # Project 5 - *Tumblr Feed*
 
-Submitted by: **Maria Perez**
+Submitted by: Yadisa Belliard
 
 **Tumblr Feed** is an app that lets you scroll and see the pictures with the summaries of the stories next to it  [TODO] 
 
