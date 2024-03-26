@@ -1,17 +1,17 @@
-# Project 5 - *Tumblr Feed*
+Project 5 - Tumblr-Feed
 
 Submitted by: Yadisa Belliard
 
-**Tumblr Feed** is an app that lets you scroll and see the pictures with the summaries of the stories next to it  [TODO] 
+Tumblr-Feed is an app that ... Tumblr's feed is known for its diversity, customization, and multimedia content, offering a personalized mix of text, images, GIFs, and videos based on user interests.
 
-Time spent: **3** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] App has a configured table view and table view call
-- [x] App populates the table view with data fetched from an API
+- [X] App has a configured table view and table view call
+- [X] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
@@ -25,18 +25,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-<div style="position: relative; padding-bottom: 212.82051282051282%; height: 0;"><iframe src="https://www.loom.com/embed/04247e60e31641e487004525fd18dc4a?sid=3f06cac6-d11e-4225-94e1-57003787b595" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/share/f0e66ba94bfb4026a1ffebb310a9612d?sid=8ad7383d-0bd3-4660-830b-4a4e5e997472
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-## Notes
-
-The lab was really helpful and the only challenge challenged that I faced was that I forgot to reload the data so I was given a white screen again and again until I found the issue.
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [Maria Perez]
+    Copyright [2024] [Yadisa Belliard]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
