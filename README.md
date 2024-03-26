@@ -25,8 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 217.30382293762577%; height: 0;">
-    <iframe src="https://www.loom.com/embed/f0e66ba94bfb4026a1ffebb310a9612d?sid=dd8a03b5-bbf1-4113-b13f-8b05fa463f56" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> </div>
+https://www.loom.com/share/f0e66ba94bfb4026a1ffebb310a9612d?sid=8ad7383d-0bd3-4660-830b-4a4e5e997472
 
 Describe any challenges encountered while building the app.
 
