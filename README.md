@@ -25,9 +25,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://www.loom.com/share/f0e66ba94bfb4026a1ffebb310a9612d?sid=72aa6f9b-dac3-4dec-a20d-8ac30f54593a
-
-## Notes
+<div>
+    <a href="https://www.loom.com/share/f0e66ba94bfb4026a1ffebb310a9612d">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 25 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f0e66ba94bfb4026a1ffebb310a9612d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f0e66ba94bfb4026a1ffebb310a9612d-00001.jpg">
+    </a>
+  </div>
 
 Describe any challenges encountered while building the app.
 
