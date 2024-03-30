@@ -44,22 +44,25 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-# Project 6 - *Name of App Here*
+    
+# Project 6 - Yadisa Belliard
+Submitted by: Tumbler Detail
 
-Submitted by: **Your Name Here**
+Tumbler Detail is an app that ... 
+- Handle table view cell selection
+- Implement push navigation
+- Pass data to another view controller when navigating to it
 
-**Name of your app** is an app that ... [TODO] 
-
-Time spent: **X** hours spent in total
+Time spent: 3.50 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Setup navigation to the Detail Screen
-- [ ] Created the Detail View UI
-- [ ] Add the ability to pass data to the Detail View Controller
-- [ ] Made personal finishing touches to the UI
+- [X] Setup navigation to the Detail Screen
+- [X] Created the Detail View UI
+- [X] Add the ability to pass data to the Detail View Controller
+- [X] Made personal finishing touches to the UI
 
 
 The following **additional** features are implemented:
@@ -78,7 +81,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Yadisa Belliard]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
