@@ -1,10 +1,8 @@
-Project 5 - Tumblr-Feed
+Tumblr-Feed
 
 Submitted by: Yadisa Belliard
 
-Tumblr-Feed is an app that ... Tumblr's feed is known for its diversity, customization, and multimedia content, offering a personalized mix of text, images, GIFs, and videos based on user interests.
-
-Time spent: 5 hours spent in total
+ Tumblr's feed is known for its diversity, customization, and multimedia content, offering a personalized mix of text, images, GIFs, and videos based on user interests.
 
 ## Required Features
 
@@ -52,8 +50,6 @@ Submitted by: **Yadisa Belliard**
 - Implement push navigation
 - Pass data to another view controller when navigating to it
 
-Time spent: **3.50** hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -73,7 +69,7 @@ The following **additional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 <div>
     <a href="https://www.loom.com/share/b6525b2908094a0e86336d8b57ae0628">
-      <p>Unit 6 Project: Tumbler Detail</p>
+      <p>Tumbler Detail</p>
     </a>
     <a href="https://www.loom.com/share/b6525b2908094a0e86336d8b57ae0628">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b6525b2908094a0e86336d8b57ae0628-with-play.gif">
